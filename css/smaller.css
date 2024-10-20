@@ -1,0 +1,72 @@
+@media screen and (max-width: 600px) {
+  body {
+    padding: 0 1rem; /* Add padding for mobile */
+  }
+
+  .logo-link img {
+    width: 100%; /* Full width for mobile */
+    padding: 0; /* Remove padding for mobile */
+  }
+
+  nav ul {
+    padding: 0; /* Remove padding */
+    width: 100%; /* Full width */
+    display: block; /* Stack menu items */
+  }
+
+  nav ul li {
+    display: block; /* Stack list items */
+    margin: 0.5rem 0; /* Add some spacing */
+  }
+
+  .hero video,
+  .c-hero img,
+  .info img {
+    width: 100%; /* Full width for mobile */
+    padding: 0; /* Remove padding */
+  }
+
+  .searchbar {
+    flex-direction: column; /* Stack search bar elements */
+    width: 100%;
+  }
+
+  .searchbar input {
+    width: 100%; /* Full width */
+  }
+
+  .cards {
+    flex-direction: column; /* Stack cards vertically */
+    gap: 20px; /* Reduce gap */
+    padding: 2rem 0; /* Adjust padding */
+  }
+
+  .info {
+    flex-direction: column; /* Stack info items */
+    gap: 20px; /* Reduce gap */
+    padding: 2rem 0; /* Adjust padding */
+  }
+
+  .bottom {
+    grid-template-columns: 1fr; /* Single column layout */
+  }
+
+  .bottom-container {
+    width: auto; /* Auto width for mobile */
+    text-align: center; /* Center text */
+  }
+
+  form input,
+  textarea,
+  form button {
+    width: 100%; /* Full width */
+  }
+
+  form button {
+    margin: 1rem 0; /* Space above and below */
+  }
+
+  footer p {
+    text-align: center; /* Center footer text */
+  }
+}

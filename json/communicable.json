@@ -1,0 +1,400 @@
+{
+  "communicable_diseases": [
+    {
+      "name": "Tuberculosis",
+      "incidence": "10 million cases annually worldwide",
+      "risk_factors": [
+        "HIV infection",
+        "Malnutrition",
+        "Close contact with infected individuals",
+        "Living in crowded conditions"
+      ],
+      "treatment_methods": [
+        "Antibiotics (e.g., Isoniazid, Rifampicin)",
+        "Directly Observed Therapy (DOT)",
+        "Hospitalization for severe cases"
+      ],
+      "prevention": [
+        "BCG vaccination",
+        "Improving ventilation in living spaces",
+        "Regular screening for at-risk populations"
+      ],
+      "image_link": "https://example.com/images/tuberculosis.jpg"
+    },
+    {
+      "name": "HIV/AIDS",
+      "incidence": "1.5 million new infections annually",
+      "risk_factors": [
+        "Unprotected sex",
+        "Sharing needles",
+        "Mother-to-child transmission",
+        "Multiple sexual partners"
+      ],
+      "treatment_methods": [
+        "Antiretroviral therapy (ART)",
+        "Regular medical check-ups",
+        "Preventive measures (e.g., PrEP)"
+      ],
+      "prevention": [
+        "Safe sex practices (e.g., condoms)",
+        "Regular HIV testing",
+        "Pre-exposure prophylaxis (PrEP)"
+      ],
+      "image_link": "https://example.com/images/hiv_aids.jpg"
+    },
+    {
+      "name": "Malaria",
+      "incidence": "229 million cases globally in 2019",
+      "risk_factors": [
+        "Living in or traveling to endemic areas",
+        "Lack of access to preventive measures",
+        "Weak immune system"
+      ],
+      "treatment_methods": [
+        "Antimalarial drugs (e.g., Artemisinin-based therapies)",
+        "Insecticide-treated bed nets",
+        "Indoor residual spraying"
+      ],
+      "prevention": [
+        "Use of insecticide-treated bed nets",
+        "Indoor spraying with insecticides",
+        "Taking antimalarial medication as prescribed"
+      ],
+      "image_link": "https://example.com/images/malaria.jpg"
+    },
+    {
+      "name": "Influenza",
+      "incidence": "Up to 1 billion cases annually",
+      "risk_factors": [
+        "Age (young and elderly)",
+        "Chronic health conditions",
+        "Pregnancy",
+        "Poor hygiene practices"
+      ],
+      "treatment_methods": [
+        "Antiviral medications (e.g., Oseltamivir)",
+        "Symptomatic treatment (e.g., fever reducers)",
+        "Vaccination"
+      ],
+      "prevention": [
+        "Annual flu vaccination",
+        "Frequent hand washing",
+        "Avoiding close contact with sick individuals"
+      ],
+      "image_link": "https://example.com/images/influenza.jpg"
+    },
+    {
+      "name": "COVID-19",
+      "incidence": "Over 300 million confirmed cases as of 2023",
+      "risk_factors": [
+        "Older age",
+        "Chronic health issues",
+        "Immunocompromised state",
+        "Close contact with infected individuals"
+      ],
+      "treatment_methods": [
+        "Antiviral medications (e.g., Remdesivir)",
+        "Corticosteroids",
+        "Supportive care"
+      ],
+      "prevention": [
+        "Vaccination",
+        "Wearing masks in crowded places",
+        "Maintaining physical distance"
+      ],
+      "image_link": "https://example.com/images/covid19.jpg"
+    },
+    {
+      "name": "Hepatitis B",
+      "incidence": "257 million people living with hepatitis B worldwide",
+      "risk_factors": [
+        "Unprotected sex",
+        "Sharing needles",
+        "Blood transfusions",
+        "Mother-to-child transmission"
+      ],
+      "treatment_methods": [
+        "Antiviral medications (e.g., Tenofovir)",
+        "Regular monitoring for liver disease",
+        "Vaccination for prevention"
+      ],
+      "prevention": [
+        "Vaccination",
+        "Safe sex practices",
+        "Avoiding sharing needles"
+      ],
+      "image_link": "https://example.com/images/hepatitis_b.jpg"
+    },
+    {
+      "name": "Dengue Fever",
+      "incidence": "390 million infections annually, with 96 million manifesting clinically",
+      "risk_factors": [
+        "Living in tropical and subtropical climates",
+        "Mosquito breeding sites",
+        "Previous dengue infection"
+      ],
+      "treatment_methods": [
+        "Symptomatic treatment (e.g., hydration, pain relief)",
+        "Hospitalization for severe cases"
+      ],
+      "prevention": [
+        "Eliminating mosquito breeding sites",
+        "Using mosquito repellent",
+        "Wearing protective clothing"
+      ],
+      "image_link": "https://example.com/images/dengue_fever.jpg"
+    },
+    {
+      "name": "Zika Virus",
+      "incidence": "Approximately 1.5 million cases reported in 2015-2016 outbreak",
+      "risk_factors": [
+        "Travel to endemic areas",
+        "Mosquito exposure",
+        "Unprotected sex with infected individuals"
+      ],
+      "treatment_methods": [
+        "Symptomatic treatment",
+        "No specific antiviral treatment available"
+      ],
+      "prevention": [
+        "Avoiding mosquito bites",
+        "Using condoms to prevent sexual transmission",
+        "Staying informed about outbreaks"
+      ],
+      "image_link": "https://example.com/images/zika_virus.jpg"
+    },
+    {
+      "name": "Measles",
+      "incidence": "140,000 deaths globally in 2018",
+      "risk_factors": [
+        "Unvaccinated individuals",
+        "Crowded living conditions",
+        "Travel to endemic areas"
+      ],
+      "treatment_methods": [
+        "Supportive care",
+        "Vitamin A supplementation",
+        "Vaccination for prevention"
+      ],
+      "prevention": [
+        "Vaccination",
+        "Ensuring herd immunity",
+        "Avoiding contact with infected individuals"
+      ],
+      "image_link": "https://example.com/images/measles.jpg"
+    },
+    {
+      "name": "Ebola Virus Disease",
+      "incidence": "Up to 1,000 cases in outbreaks",
+      "risk_factors": [
+        "Direct contact with infected bodily fluids",
+        "Handling infected animals",
+        "Unsafe burial practices"
+      ],
+      "treatment_methods": [
+        "Supportive care",
+        "Experimental treatments (e.g., monoclonal antibodies)"
+      ],
+      "prevention": [
+        "Avoiding contact with infected individuals",
+        "Safe burial practices",
+        "Education on transmission routes"
+      ],
+      "image_link": "https://example.com/images/ebola.jpg"
+    },
+    {
+      "name": "Cholera",
+      "incidence": "2.9 million cases annually",
+      "risk_factors": [
+        "Contaminated water sources",
+        "Poor sanitation",
+        "Crowded living conditions"
+      ],
+      "treatment_methods": [
+        "Rehydration therapy",
+        "Antibiotics for severe cases",
+        "Vaccination for high-risk populations"
+      ],
+      "prevention": [
+        "Access to clean water",
+        "Good sanitation practices",
+        "Vaccination in high-risk areas"
+      ],
+      "image_link": "https://example.com/images/cholera.jpg"
+    },
+    {
+      "name": "Typhoid Fever",
+      "incidence": "11-20 million cases annually",
+      "risk_factors": [
+        "Contaminated food and water",
+        "Travel to endemic areas",
+        "Poor sanitation"
+      ],
+      "treatment_methods": [
+        "Antibiotics (e.g., Ceftriaxone)",
+        "Rehydration therapy",
+        "Vaccination for prevention"
+      ],
+      "prevention": [
+        "Vaccination",
+        "Ensuring safe food and water",
+        "Improving sanitation"
+      ],
+      "image_link": "https://example.com/images/typhoid.jpg"
+    },
+    {
+      "name": "Pulmonary Tuberculosis",
+      "incidence": "Approximately 1.5 million deaths annually",
+      "risk_factors": [
+        "HIV infection",
+        "Living in crowded conditions",
+        "Malnutrition",
+        "Substance abuse"
+      ],
+      "treatment_methods": [
+        "Long-term antibiotic therapy",
+        "Hospitalization in severe cases"
+      ],
+      "prevention": [
+        "BCG vaccination",
+        "Improving ventilation",
+        "Regular health check-ups"
+      ],
+      "image_link": "https://example.com/images/pulmonary_tb.jpg"
+    },
+    {
+      "name": "Anthrax",
+      "incidence": "2,000-5,000 cases reported annually",
+      "risk_factors": [
+        "Occupational exposure (e.g., handling infected animals)",
+        "Bioterrorism events"
+      ],
+      "treatment_methods": [
+        "Antibiotics (e.g., Ciprofloxacin)",
+        "Vaccination for high-risk groups"
+      ],
+      "prevention": [
+        "Vaccination for at-risk populations",
+        "Safety measures in handling animals",
+        "Public health awareness"
+      ],
+      "image_link": "https://example.com/images/anthrax.jpg"
+    },
+    {
+      "name": "Pertussis (Whooping Cough)",
+      "incidence": "24 million cases globally annually",
+      "risk_factors": ["Unvaccinated individuals", "Young children"],
+      "treatment_methods": [
+        "Antibiotics (e.g., Azithromycin)",
+        "Vaccination for prevention"
+      ],
+      "prevention": [
+        "Vaccination",
+        "Awareness of symptoms",
+        "Prompt treatment of infected individuals"
+      ],
+      "image_link": "https://example.com/images/pertussis.jpg"
+    },
+    {
+      "name": "Tetanus",
+      "incidence": "Approximately 30,000 cases annually worldwide",
+      "risk_factors": [
+        "Injury with contaminated objects",
+        "Lack of vaccination"
+      ],
+      "treatment_methods": [
+        "Tetanus immune globulin (TIG)",
+        "Wound care",
+        "Vaccination for prevention"
+      ],
+      "prevention": [
+        "Vaccination",
+        "Prompt wound care",
+        "Awareness of risk factors"
+      ],
+      "image_link": "https://example.com/images/tetanus.jpg"
+    },
+    {
+      "name": "Chickenpox",
+      "incidence": "4 million cases annually in the U.S. alone",
+      "risk_factors": [
+        "Unvaccinated individuals",
+        "Close contact with infected persons"
+      ],
+      "treatment_methods": [
+        "Antihistamines for itching",
+        "Vaccination for prevention"
+      ],
+      "prevention": [
+        "Vaccination",
+        "Avoiding contact with infected individuals",
+        "Hygiene practices to prevent spread"
+      ],
+      "image_link": "https://example.com/images/chickenpox.jpg"
+    },
+    {
+      "name": "Yellow Fever",
+      "incidence": "Approximately 200,000 cases annually",
+      "risk_factors": [
+        "Living in or traveling to endemic areas",
+        "Mosquito bites"
+      ],
+      "treatment_methods": ["Supportive care", "Vaccination for prevention"],
+      "prevention": [
+        "Vaccination before travel",
+        "Avoiding mosquito bites",
+        "Using insect repellent"
+      ],
+      "image_link": "https://example.com/images/yellow_fever.jpg"
+    },
+    {
+      "name": "Infectious Hepatitis (Hepatitis A)",
+      "incidence": "1.4 million cases globally each year",
+      "risk_factors": ["Contaminated food and water", "Poor sanitation"],
+      "treatment_methods": ["Supportive care", "Vaccination for prevention"],
+      "prevention": [
+        "Vaccination",
+        "Safe food and water practices",
+        "Good hygiene"
+      ],
+      "image_link": "https://example.com/images/hepatitis_a.jpg"
+    },
+    {
+      "name": "Trachoma",
+      "incidence": "About 1.9 million people are visually impaired due to trachoma",
+      "risk_factors": [
+        "Poor sanitation",
+        "Crowded living conditions",
+        "Lack of access to clean water"
+      ],
+      "treatment_methods": [
+        "Antibiotics (e.g., Azithromycin)",
+        "Surgery for advanced cases"
+      ],
+      "prevention": [
+        "Improving sanitation",
+        "Access to clean water",
+        "Health education on hygiene"
+      ],
+      "image_link": "https://example.com/images/trachoma.jpg"
+    },
+    {
+      "name": "Schistosomiasis",
+      "incidence": "Over 200 million infected globally",
+      "risk_factors": [
+        "Freshwater exposure in endemic areas",
+        "Poor sanitation"
+      ],
+      "treatment_methods": [
+        "Antiparasitic medications (e.g., Praziquantel)",
+        "Preventive measures (e.g., sanitation)"
+      ],
+      "prevention": [
+        "Avoiding freshwater exposure in endemic areas",
+        "Improving sanitation",
+        "Health education"
+      ],
+      "image_link": "https://example.com/images/schistosomiasis.jpg"
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "non_communicable_diseases": [
+    {
+      "name": "Cardiovascular Disease",
+      "definition": "A range of diseases affecting the heart and blood vessels, including coronary artery disease, heart attack, and stroke.",
+      "how_it_occurs": "CVD often develops due to atherosclerosis, where plaque builds up in the arteries, narrowing them and restricting blood flow. Risk factors like high blood pressure and cholesterol contribute to this process.",
+      "incidence": "Approximately 17.9 million deaths annually worldwide",
+      "risk_factors": [
+        "High blood pressure",
+        "Smoking",
+        "Obesity",
+        "High cholesterol",
+        "Physical inactivity"
+      ],
+      "treatment_methods": [
+        "Medications (e.g., statins, antihypertensives)",
+        "Lifestyle changes",
+        "Surgical interventions (e.g., bypass surgery)"
+      ],
+      "prevention": [
+        "Healthy diet (e.g., low in saturated fats and sugars)",
+        "Regular physical activity",
+        "Avoiding tobacco and excessive alcohol consumption"
+      ],
+      "image_link": "https://example.com/images/cardiovascular_disease.jpg"
+    },
+    {
+      "name": "Diabetes",
+      "definition": "A chronic condition characterized by high levels of glucose in the blood due to insulin resistance or insufficient insulin production.",
+      "how_it_occurs": "Diabetes occurs when the body either does not produce enough insulin (Type 1) or becomes resistant to insulin (Type 2), leading to elevated blood sugar levels.",
+      "incidence": "463 million people affected globally in 2019",
+      "risk_factors": [
+        "Obesity",
+        "Sedentary lifestyle",
+        "Family history of diabetes",
+        "Unhealthy diet"
+      ],
+      "treatment_methods": [
+        "Insulin therapy",
+        "Oral medications",
+        "Dietary changes and exercise"
+      ],
+      "prevention": [
+        "Maintaining a healthy weight",
+        "Regular physical activity",
+        "Balanced diet rich in whole grains, fruits, and vegetables"
+      ],
+      "image_link": "https://example.com/images/diabetes.jpg"
+    },
+    {
+      "name": "Cancer",
+      "definition": "A group of diseases characterized by uncontrolled cell growth and the potential to invade or spread to other parts of the body.",
+      "how_it_occurs": "Cancer occurs when genetic mutations disrupt the normal cell cycle, leading to uncontrolled proliferation. Factors like tobacco use, radiation, and certain infections can increase risk.",
+      "incidence": "Approximately 10 million deaths globally in 2020",
+      "risk_factors": [
+        "Tobacco use",
+        "Alcohol consumption",
+        "Poor diet",
+        "Physical inactivity",
+        "Exposure to carcinogens"
+      ],
+      "treatment_methods": [
+        "Surgery",
+        "Chemotherapy",
+        "Radiation therapy",
+        "Immunotherapy"
+      ],
+      "prevention": [
+        "Avoiding tobacco and limiting alcohol consumption",
+        "Healthy diet",
+        "Regular screenings for early detection"
+      ],
+      "image_link": "https://example.com/images/cancer.jpg"
+    },
+    {
+      "name": "Chronic Respiratory Diseases",
+      "definition": "A group of diseases affecting the airways and lungs, leading to difficulty in breathing and reduced lung function.",
+      "how_it_occurs": "Chronic respiratory diseases like COPD result from long-term exposure to irritants that damage the lungs, such as tobacco smoke and air pollution.",
+      "incidence": "Approximately 3 million deaths annually worldwide",
+      "risk_factors": [
+        "Smoking",
+        "Air pollution",
+        "Occupational exposures",
+        "Respiratory infections in childhood"
+      ],
+      "treatment_methods": [
+        "Bronchodilators",
+        "Inhaled corticosteroids",
+        "Oxygen therapy"
+      ],
+      "prevention": [
+        "Avoiding tobacco smoke",
+        "Reducing exposure to air pollution",
+        "Vaccination against respiratory infections"
+      ],
+      "image_link": "https://example.com/images/chronic_respiratory_diseases.jpg"
+    },
+    {
+      "name": "Obesity",
+      "definition": "A medical condition characterized by excess body fat that increases the risk of health problems.",
+      "how_it_occurs": "Obesity occurs when energy intake from food exceeds energy expenditure, often due to a combination of genetic, environmental, and behavioral factors.",
+      "incidence": "Over 650 million adults globally are obese",
+      "risk_factors": [
+        "High-calorie diet",
+        "Lack of physical activity",
+        "Genetic predisposition",
+        "Psychological factors"
+      ],
+      "treatment_methods": [
+        "Diet and exercise programs",
+        "Medications",
+        "Bariatric surgery"
+      ],
+      "prevention": [
+        "Balanced diet with portion control",
+        "Regular physical activity",
+        "Behavioral changes and support"
+      ],
+      "image_link": "https://example.com/images/obesity.jpg"
+    },
+    {
+      "name": "Chronic Kidney Disease",
+      "definition": "A progressive loss of kidney function over time, which can lead to kidney failure and other complications.",
+      "how_it_occurs": "Chronic kidney disease often develops due to long-term conditions such as diabetes and hypertension that damage the kidneys' filtering units.",
+      "incidence": "Approximately 850 million people worldwide are affected",
+      "risk_factors": [
+        "Diabetes",
+        "High blood pressure",
+        "Cardiovascular disease",
+        "Family history of kidney disease"
+      ],
+      "treatment_methods": [
+        "Medications",
+        "Dialysis",
+        "Kidney transplantation"
+      ],
+      "prevention": [
+        "Managing diabetes and hypertension",
+        "Staying hydrated",
+        "Regular health check-ups"
+      ],
+      "image_link": "https://example.com/images/chronic_kidney_disease.jpg"
+    },
+    {
+      "name": "Alzheimer's Disease",
+      "definition": "A progressive neurological disorder that causes brain cells to degenerate and die, leading to cognitive decline.",
+      "how_it_occurs": "Alzheimer's occurs due to the buildup of proteins (amyloid plaques and tau tangles) in the brain, disrupting cell function and communication.",
+      "incidence": "Over 50 million people worldwide are affected",
+      "risk_factors": ["Age", "Family history", "Genetics", "Head injuries"],
+      "treatment_methods": [
+        "Cognitive enhancers",
+        "Behavioral interventions",
+        "Supportive care"
+      ],
+      "prevention": [
+        "Regular physical and mental activity",
+        "Healthy diet",
+        "Social engagement"
+      ],
+      "image_link": "https://example.com/images/alzheimers_disease.jpg"
+    },
+    {
+      "name": "Hypertension",
+      "definition": "A condition characterized by persistently high blood pressure in the arteries.",
+      "how_it_occurs": "Hypertension can develop due to a combination of genetic factors, poor diet, lack of physical activity, and other health conditions that affect blood flow.",
+      "incidence": "Approximately 1.13 billion people worldwide have hypertension",
+      "risk_factors": [
+        "Obesity",
+        "High salt intake",
+        "Sedentary lifestyle",
+        "Excessive alcohol consumption"
+      ],
+      "treatment_methods": [
+        "Antihypertensive medications",
+        "Lifestyle changes",
+        "Regular monitoring"
+      ],
+      "prevention": [
+        "Healthy diet (e.g., DASH diet)",
+        "Regular exercise",
+        "Maintaining a healthy weight"
+      ],
+      "image_link": "https://example.com/images/hypertension.jpg"
+    },
+    {
+      "name": "Osteoporosis",
+      "definition": "A condition characterized by weak and brittle bones, increasing the risk of fractures.",
+      "how_it_occurs": "Osteoporosis occurs when the body loses too much bone mass or does not make enough bone, often influenced by hormonal changes, aging, and nutritional deficiencies.",
+      "incidence": "Approximately 200 million people are affected globally",
+      "risk_factors": [
+        "Age",
+        "Gender (more common in women)",
+        "Family history",
+        "Low calcium intake"
+      ],
+      "treatment_methods": [
+        "Calcium and vitamin D supplements",
+        "Medications (e.g., bisphosphonates)",
+        "Weight-bearing exercises"
+      ],
+      "prevention": [
+        "Adequate intake of calcium and vitamin D",
+        "Regular physical activity",
+        "Avoiding smoking and excessive alcohol"
+      ],
+      "image_link": "https://example.com/images/osteoporosis.jpg"
+    },
+    {
+      "name": "Mental Health Disorders",
+      "definition": "A wide range of mental health conditions that affect mood, thinking, and behavior.",
+      "how_it_occurs": "These disorders can arise from a complex interplay of genetic, biological, environmental, and psychological factors, often triggered by stress or trauma.",
+      "incidence": "Approximately 1 in 4 people will experience a mental health issue at some point in their lives",
+      "risk_factors": [
+        "Genetic predisposition",
+        "Chronic stress",
+        "Trauma",
+        "Substance abuse"
+      ],
+      "treatment_methods": [
+        "Psychotherapy",
+        "Medications (e.g., antidepressants, antipsychotics)",
+        "Support groups"
+      ],
+
+      "prevention": [
+        "Stress management techniques",
+        "Healthy lifestyle choices",
+        "Building strong social connections"
+      ],
+      "image_link": "https://example.com/images/mental_health_disorders.jpg"
+    },
+    {
+      "name": "Cirrhosis",
+      "definition": "Severe scarring of the liver caused by liver disease, leading to impaired liver function.",
+      "how_it_occurs": "Cirrhosis develops from long-term damage to the liver due to factors like chronic alcohol abuse, viral hepatitis, or fatty liver disease.",
+      "incidence": "Approximately 1.5 million deaths annually worldwide",
+      "risk_factors": [
+        "Chronic alcohol abuse",
+        "Hepatitis infections",
+        "Obesity",
+        "Diabetes"
+      ],
+      "treatment_methods": [
+        "Lifestyle changes",
+        "Medications",
+        "Liver transplantation"
+      ],
+      "prevention": [
+        "Limiting alcohol intake",
+        "Vaccination against hepatitis",
+        "Maintaining a healthy weight"
+      ],
+      "image_link": "https://example.com/images/cirrhosis.jpg"
+    },
+    {
+      "name": "Multiple Sclerosis",
+      "definition": "A disease in which the immune system attacks the protective covering of nerves, leading to communication problems between the brain and the rest of the body.",
+      "how_it_occurs": "MS is thought to be an autoimmune disorder where the immune system mistakenly attacks the myelin sheath surrounding nerve fibers, disrupting signal transmission.",
+      "incidence": "Approximately 2.3 million people affected worldwide",
+      "risk_factors": [
+        "Age (20-50 years old)",
+        "Gender (more common in women)",
+        "Family history",
+        "Smoking"
+      ],
+      "treatment_methods": [
+        "Disease-modifying therapies",
+        "Corticosteroids",
+        "Symptomatic treatments"
+      ],
+      "prevention": [
+        "Healthy lifestyle choices",
+        "Avoiding smoking",
+        "Vitamin D supplementation"
+      ],
+      "image_link": "https://example.com/images/multiple_sclerosis.jpg"
+    },
+    {
+      "name": "Parkinson's Disease",
+      "definition": "A progressive neurological disorder that affects movement and can cause tremors and stiffness.",
+      "how_it_occurs": "Parkinson's occurs due to the degeneration of dopamine-producing neurons in the brain, leading to a decrease in dopamine levels, which regulates movement.",
+      "incidence": "Approximately 10 million people affected globally",
+      "risk_factors": [
+        "Age",
+        "Genetic factors",
+        "Exposure to toxins",
+        "Head injuries"
+      ],
+      "treatment_methods": [
+        "Medications (e.g., Levodopa)",
+        "Physical therapy",
+        "Surgical interventions (e.g., deep brain stimulation)"
+      ],
+      "prevention": [
+        "Regular physical activity",
+        "Healthy diet",
+        "Avoiding exposure to environmental toxins"
+      ],
+      "image_link": "https://example.com/images/parkinsons_disease.jpg"
+    },
+    {
+      "name": "Gout",
+      "definition": "A form of inflammatory arthritis characterized by sudden, severe attacks of pain, swelling, and redness in the joints.",
+      "how_it_occurs": "Gout occurs when there is a buildup of uric acid in the blood, which can form crystals in the joints, leading to inflammation and pain.",
+      "incidence": "Around 8.3 million people affected in the U.S.",
+      "risk_factors": [
+        "Obesity",
+        "High-purine diet",
+        "Alcohol consumption",
+        "Family history"
+      ],
+      "treatment_methods": [
+        "Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+        "Colchicine",
+        "Urate-lowering medications"
+      ],
+      "prevention": [
+        "Maintaining a healthy weight",
+        "Limiting alcohol and purine-rich foods",
+        "Staying hydrated"
+      ],
+      "image_link": "https://example.com/images/gout.jpg"
+    },
+    {
+      "name": "Asthma",
+      "definition": "A chronic condition that affects the airways, causing wheezing, shortness of breath, chest tightness, and coughing.",
+      "how_it_occurs": "Asthma occurs due to inflammation and narrowing of the airways, often triggered by allergens, irritants, and respiratory infections.",
+      "incidence": "Approximately 262 million people affected worldwide",
+      "risk_factors": [
+        "Family history",
+        "Allergies",
+        "Air pollution",
+        "Respiratory infections"
+      ],
+      "treatment_methods": [
+        "Inhalers (e.g., bronchodilators, corticosteroids)",
+        "Avoiding triggers",
+        "Allergy medications"
+      ],
+      "prevention": [
+        "Avoiding allergens and irritants",
+        "Regular physical activity",
+        "Monitoring symptoms"
+      ],
+      "image_link": "https://example.com/images/asthma.jpg"
+    },
+    {
+      "name": "Fibromyalgia",
+      "definition": "A chronic condition characterized by widespread musculoskeletal pain, fatigue, and sleep disturbances.",
+      "how_it_occurs": "The exact cause of fibromyalgia is unknown, but it is believed to involve a combination of genetic, environmental, and psychological factors that affect pain perception.",
+      "incidence": "Approximately 4 million adults in the U.S. affected",
+      "risk_factors": [
+        "Family history",
+        "Stress",
+        "Trauma",
+        "Other rheumatic diseases"
+      ],
+      "treatment_methods": [
+        "Medications (e.g., pain relievers, antidepressants)",
+        "Physical therapy",
+        "Cognitive-behavioral therapy"
+      ],
+      "prevention": [
+        "Stress management",
+        "Regular exercise",
+        "Healthy sleep habits"
+      ],
+      "image_link": "https://example.com/images/fibromyalgia.jpg"
+    },
+    {
+      "name": "Chronic Fatigue Syndrome",
+      "definition": "A complex disorder characterized by extreme fatigue that cannot be explained by any underlying medical condition.",
+      "how_it_occurs": "The exact cause is unknown, but it is believed to involve a combination of viral infections, immune dysfunction, and psychological stress.",
+      "incidence": "Estimated 836,000 to 2.5 million Americans affected",
+      "risk_factors": [
+        "Infections",
+        "Stress",
+        "Trauma",
+        "Immune system dysfunction"
+      ],
+      "treatment_methods": [
+        "Cognitive behavioral therapy",
+        "Graded exercise therapy",
+        "Symptomatic treatment"
+      ],
+      "prevention": [
+        "Managing stress",
+        "Healthy lifestyle choices",
+        "Avoiding infections"
+      ],
+      "image_link": "https://example.com/images/chronic_fatigue_syndrome.jpg"
+    },
+    {
+      "name": "Skin Cancer",
+      "definition": "A type of cancer that forms in the skin cells, often due to excessive sun exposure or tanning beds.",
+      "how_it_occurs": "Skin cancer develops when UV radiation damages the DNA in skin cells, leading to uncontrolled growth and the formation of tumors.",
+      "incidence": "About 1 in 5 Americans will develop skin cancer by age 70",
+      "risk_factors": [
+        "Excessive sun exposure",
+        "Tanning beds",
+        "Fair skin",
+        "Family history"
+      ],
+      "treatment_methods": ["Surgery", "Radiation therapy", "Chemotherapy"],
+      "prevention": [
+        "Using sunscreen",
+        "Avoiding tanning beds",
+        "Regular skin checks"
+      ],
+      "image_link": "https://example.com/images/skin_cancer.jpg"
+    },
+    {
+      "name": "Crohn's Disease",
+      "definition": "An inflammatory bowel disease that causes inflammation of the digestive tract, leading to abdominal pain, severe diarrhea, and malnutrition.",
+      "how_it_occurs": "Crohn's disease occurs when the immune system mistakenly attacks the gastrointestinal tract, causing inflammation. The exact cause is unknown but is thought to involve genetic and environmental factors.",
+      "incidence": "Approximately 780,000 Americans affected",
+      "risk_factors": [
+        "Family history",
+        "Smoking",
+        "Age (15-35 years old)",
+        "Immune system dysfunction"
+      ],
+      "treatment_methods": [
+        "Anti-inflammatory medications",
+        "Immunosuppressants",
+        "Surgery"
+      ],
+      "prevention": ["Avoiding smoking", "Healthy diet", "Managing stress"],
+      "image_link": "https://example.com/images/crohns_disease.jpg"
+    },
+    {
+      "name": "Irritable Bowel Syndrome (IBS)",
+      "definition": "A common disorder affecting the large intestine, characterized by abdominal pain, bloating, and changes in bowel habits.",
+      "how_it_occurs": "IBS is thought to be caused by abnormal muscle contractions in the intestine, sensitivity to certain foods, and stress, but the exact cause is not fully understood.",
+      "incidence": "Approximately 10-15% of adults globally affected",
+      "risk_factors": [
+        "Family history",
+        "Stress",
+        "Dietary factors",
+        "Gender (more common in women)"
+      ],
+      "treatment_methods": [
+        "Dietary changes",
+        "Medications (e.g., antispasmodics)",
+        "Psychological therapy"
+      ],
+      "prevention": ["Healthy diet", "Managing stress", "Regular exercise"],
+      "image_link": "https://example.com/images/ibs.jpg"
+    },
+    {
+      "name": "Acid Reflux (GERD)",
+      "definition": "A chronic digestive condition where stomach acid or bile irritates the food pipe lining.",
+      "how_it_occurs": "GERD occurs when the lower esophageal sphincter fails to close properly, allowing stomach acid to flow back into the esophagus, causing symptoms like heartburn.",
+      "incidence": "Approximately 20% of the U.S. population affected",
+      "risk_factors": [
+        "Obesity",
+        "Smoking",
+        "Pregnancy",
+        "Diet (e.g., spicy foods)"
+      ],
+      "treatment_methods": [
+        "Antacids",
+        "Proton pump inhibitors",
+        "Lifestyle changes"
+      ],
+      "prevention": [
+        "Healthy weight management",
+        "Avoiding trigger foods",
+        "Eating smaller meals"
+      ],
+      "image_link": "https://example.com/images/gerd.jpg"
+    }
+  ]
+}
