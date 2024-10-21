@@ -2,7 +2,9 @@
   "communicable_diseases": [
     {
       "name": "Tuberculosis",
+      "definition": "A bacterial infection caused by Mycobacterium tuberculosis, primarily affecting the lungs.",
       "incidence": "10 million cases annually worldwide",
+      "infection_occurrence": "Infection occurs through airborne droplets from coughs or sneezes of an infected person.",
       "risk_factors": [
         "HIV infection",
         "Malnutrition",
@@ -23,7 +25,9 @@
     },
     {
       "name": "HIV/AIDS",
+      "definition": "A virus that attacks the immune system, leading to the disease AIDS, characterized by a range of opportunistic infections.",
       "incidence": "1.5 million new infections annually",
+      "infection_occurrence": "Transmitted through unprotected sexual contact, sharing of needles, or from mother to child during childbirth.",
       "risk_factors": [
         "Unprotected sex",
         "Sharing needles",
@@ -44,7 +48,9 @@
     },
     {
       "name": "Malaria",
+      "definition": "A mosquito-borne infectious disease caused by Plasmodium parasites, leading to fever and flu-like symptoms.",
       "incidence": "229 million cases globally in 2019",
+      "infection_occurrence": "Transmitted through the bite of infected Anopheles mosquitoes.",
       "risk_factors": [
         "Living in or traveling to endemic areas",
         "Lack of access to preventive measures",
@@ -64,7 +70,9 @@
     },
     {
       "name": "Influenza",
+      "definition": "A contagious respiratory illness caused by influenza viruses, leading to symptoms like fever, cough, and body aches.",
       "incidence": "Up to 1 billion cases annually",
+      "infection_occurrence": "Spread through droplets when infected individuals cough, sneeze, or talk.",
       "risk_factors": [
         "Age (young and elderly)",
         "Chronic health conditions",
@@ -85,7 +93,9 @@
     },
     {
       "name": "COVID-19",
+      "definition": "A viral respiratory illness caused by the SARS-CoV-2 virus, resulting in symptoms ranging from mild respiratory issues to severe pneumonia.",
       "incidence": "Over 300 million confirmed cases as of 2023",
+      "infection_occurrence": "Spread mainly through respiratory droplets when an infected person talks, coughs, or sneezes.",
       "risk_factors": [
         "Older age",
         "Chronic health issues",
@@ -106,7 +116,9 @@
     },
     {
       "name": "Hepatitis B",
+      "definition": "A viral infection that attacks the liver, potentially leading to chronic liver disease and liver cancer.",
       "incidence": "257 million people living with hepatitis B worldwide",
+      "infection_occurrence": "Spread through contact with infectious body fluids, including sexual contact and sharing needles.",
       "risk_factors": [
         "Unprotected sex",
         "Sharing needles",
@@ -127,7 +139,9 @@
     },
     {
       "name": "Dengue Fever",
+      "definition": "A mosquito-borne viral infection causing flu-like symptoms, and in severe cases, can lead to dengue hemorrhagic fever.",
       "incidence": "390 million infections annually, with 96 million manifesting clinically",
+      "infection_occurrence": "Transmitted through the bite of infected Aedes mosquitoes.",
       "risk_factors": [
         "Living in tropical and subtropical climates",
         "Mosquito breeding sites",
@@ -146,7 +160,9 @@
     },
     {
       "name": "Zika Virus",
+      "definition": "A viral infection spread primarily by Aedes mosquitoes, which can cause fever, rash, and joint pain.",
       "incidence": "Approximately 1.5 million cases reported in 2015-2016 outbreak",
+      "infection_occurrence": "Transmitted through mosquito bites and can also be spread through sexual contact.",
       "risk_factors": [
         "Travel to endemic areas",
         "Mosquito exposure",
@@ -165,7 +181,9 @@
     },
     {
       "name": "Measles",
+      "definition": "A highly contagious viral infection characterized by a distinctive rash and respiratory symptoms.",
       "incidence": "140,000 deaths globally in 2018",
+      "infection_occurrence": "Spread through respiratory droplets from coughs or sneezes of an infected person.",
       "risk_factors": [
         "Unvaccinated individuals",
         "Crowded living conditions",
@@ -185,7 +203,9 @@
     },
     {
       "name": "Ebola Virus Disease",
+      "definition": "A severe and often fatal illness caused by the Ebola virus, characterized by fever, vomiting, and bleeding.",
       "incidence": "Up to 1,000 cases in outbreaks",
+      "infection_occurrence": "Spread through direct contact with infected bodily fluids or through handling infected animals.",
       "risk_factors": [
         "Direct contact with infected bodily fluids",
         "Handling infected animals",
@@ -204,7 +224,9 @@
     },
     {
       "name": "Cholera",
+      "definition": "An acute diarrheal infection caused by ingesting contaminated water or food, leading to severe dehydration.",
       "incidence": "2.9 million cases annually",
+      "infection_occurrence": "Spread through ingestion of contaminated water or food, often due to poor sanitation.",
       "risk_factors": [
         "Contaminated water sources",
         "Poor sanitation",
@@ -224,7 +246,9 @@
     },
     {
       "name": "Typhoid Fever",
+      "definition": "A bacterial infection caused by Salmonella typhi, resulting in high fever, abdominal pain, and gastrointestinal issues.",
       "incidence": "11-20 million cases annually",
+      "infection_occurrence": "Spread through ingestion of contaminated food and water.",
       "risk_factors": [
         "Contaminated food and water",
         "Travel to endemic areas",
@@ -244,7 +268,9 @@
     },
     {
       "name": "Pulmonary Tuberculosis",
+      "definition": "A severe form of tuberculosis that primarily affects the lungs and can lead to serious health complications if untreated.",
       "incidence": "Approximately 1.5 million deaths annually",
+      "infection_occurrence": "Spread through airborne droplets from an infected person.",
       "risk_factors": [
         "HIV infection",
         "Living in crowded conditions",
@@ -264,7 +290,9 @@
     },
     {
       "name": "Anthrax",
+      "definition": "A serious infectious disease caused by Bacillus anthracis, primarily affecting livestock but can also infect humans.",
       "incidence": "2,000-5,000 cases reported annually",
+      "infection_occurrence": "Spread through contact with infected animals or contaminated animal products.",
       "risk_factors": [
         "Occupational exposure (e.g., handling infected animals)",
         "Bioterrorism events"
@@ -282,7 +310,9 @@
     },
     {
       "name": "Pertussis (Whooping Cough)",
+      "definition": "A highly contagious respiratory disease caused by Bordetella pertussis, characterized by severe coughing fits.",
       "incidence": "24 million cases globally annually",
+      "infection_occurrence": "Spread through respiratory droplets when an infected person coughs or sneezes.",
       "risk_factors": ["Unvaccinated individuals", "Young children"],
       "treatment_methods": [
         "Antibiotics (e.g., Azithromycin)",
@@ -297,7 +327,9 @@
     },
     {
       "name": "Tetanus",
+      "definition": "A bacterial infection caused by Clostridium tetani, leading to painful muscle stiffness and spasms.",
       "incidence": "Approximately 30,000 cases annually worldwide",
+      "infection_occurrence": "Infection occurs through wounds contaminated with soil, dust, or feces.",
       "risk_factors": [
         "Injury with contaminated objects",
         "Lack of vaccination"
@@ -316,7 +348,9 @@
     },
     {
       "name": "Chickenpox",
+      "definition": "A highly contagious viral infection causing an itchy rash and flu-like symptoms, primarily affecting children.",
       "incidence": "4 million cases annually in the U.S. alone",
+      "infection_occurrence": "Spread through respiratory droplets or direct contact with the rash of an infected person.",
       "risk_factors": [
         "Unvaccinated individuals",
         "Close contact with infected persons"
@@ -334,7 +368,9 @@
     },
     {
       "name": "Yellow Fever",
+      "definition": "A viral infection transmitted by mosquito bites, characterized by fever, chills, and muscle pain.",
       "incidence": "Approximately 200,000 cases annually",
+      "infection_occurrence": "Spread through the bite of infected Aedes or Haemagogus mosquitoes.",
       "risk_factors": [
         "Living in or traveling to endemic areas",
         "Mosquito bites"
@@ -349,7 +385,9 @@
     },
     {
       "name": "Infectious Hepatitis (Hepatitis A)",
+      "definition": "A viral infection affecting the liver, causing symptoms like jaundice, fatigue, and abdominal pain.",
       "incidence": "About 1.4 million cases globally each year",
+      "infection_occurrence": "Spread through ingestion of contaminated food and water.",
       "risk_factors": ["Contaminated food and water", "Poor sanitation"],
       "treatment_methods": ["Supportive care", "Vaccination for prevention"],
       "prevention": [
@@ -361,7 +399,9 @@
     },
     {
       "name": "Trachoma",
+      "definition": "A contagious eye infection caused by Chlamydia trachomatis, leading to blindness if untreated.",
       "incidence": "About 1.9 million people are visually impaired due to trachoma",
+      "infection_occurrence": "Spread through direct contact with infected eye secretions or through contaminated surfaces.",
       "risk_factors": [
         "Poor sanitation",
         "Crowded living conditions",
@@ -380,7 +420,9 @@
     },
     {
       "name": "Schistosomiasis",
+      "definition": "A parasitic disease caused by trematodes, leading to various health issues, including abdominal pain and blood in urine.",
       "incidence": "Over 200 million infected globally",
+      "infection_occurrence": "Spread through freshwater exposure where the parasite is present, often in endemic areas.",
       "risk_factors": [
         "Freshwater exposure in endemic areas",
         "Poor sanitation"
