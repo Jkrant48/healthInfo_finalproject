@@ -1,34 +1,24 @@
 @media screen and (max-width: 600px) {
-  body {
-    padding: 0 1rem; /* Add padding for mobile */
-  }
-
   .logo-link img {
-    width: 100%; /* Full width for mobile */
-    padding: 0; /* Remove padding for mobile */
-  }
-
-  nav ul {
-    padding: 0; /* Remove padding */
-    width: 100%; /* Full width */
-    display: block; /* Stack menu items */
-  }
-
-  nav ul li {
-    display: block; /* Stack list items */
-    margin: 0.5rem 0; /* Add some spacing */
+    width: 60%;
+    padding: 10px;
   }
 
   .hero video,
   .c-hero img,
   .info img {
-    width: 100%; /* Full width for mobile */
-    padding: 0; /* Remove padding */
+    width: 100%;
+    padding: 0;
+  }
+
+  .hero {
+    display: flex;
+    flex-direction: column;
   }
 
   .searchbar {
-    flex-direction: column; /* Stack search bar elements */
-    width: 100%;
+    width: 70%;
+    align-self: center;
   }
 
   .searchbar input {
@@ -36,19 +26,27 @@
   }
 
   .cards {
-    flex-direction: column; /* Stack cards vertically */
-    gap: 20px; /* Reduce gap */
-    padding: 2rem 0; /* Adjust padding */
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    padding: 2rem 0;
+    margin: 0;
   }
 
   .info {
-    flex-direction: column; /* Stack info items */
-    gap: 20px; /* Reduce gap */
-    padding: 2rem 0; /* Adjust padding */
+    flex-direction: column;
+    gap: 20px;
+    padding: 4rem;
+    margin: 0;
+    text-align: center;
   }
 
   .bottom {
-    grid-template-columns: 1fr; /* Single column layout */
+    grid-template-columns: 1fr;
+  }
+
+  .b-info {
+    padding-bottom: 50px;
   }
 
   .bottom-container {
