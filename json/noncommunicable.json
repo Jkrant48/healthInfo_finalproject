@@ -22,7 +22,8 @@
         "Regular physical activity",
         "Avoiding tobacco and excessive alcohol consumption"
       ],
-      "image_link": "https://example.com/images/cardiovascular_disease.jpg"
+      "image_link": "https://dvl2h13awlxkt.cloudfront.net/assets/general-images/Knowledge/_1200x630_crop_center-center_82_none/CVD-iStock-1266230179.jpg?mtime=1653282867",
+      "image_alt": "Image of the heart by Heart research Institute"
     },
     {
       "name": "Diabetes",
@@ -45,7 +46,8 @@
         "Regular physical activity",
         "Balanced diet rich in whole grains, fruits, and vegetables"
       ],
-      "image_link": "https://example.com/images/diabetes.jpg"
+      "image_link": "https://www.swansea.ac.uk/press-office/news-events/news/2024/07/CGM-on-child's-arm-1.jpg",
+      "image_alt": "Diabetic device- image by Swansea University"
     },
     {
       "name": "Cancer",
@@ -70,7 +72,8 @@
         "Healthy diet",
         "Regular screenings for early detection"
       ],
-      "image_link": "https://example.com/images/cancer.jpg"
+      "image_link": "https://www.mdanderson.org/images/publications/cancerwise/Generics/cancer-metastasis-cancerwise.jpg",
+      "image_alt": "Cancer cells - image by MD Anderson Cancer center"
     },
     {
       "name": "Chronic Respiratory Diseases",
@@ -93,7 +96,8 @@
         "Reducing exposure to air pollution",
         "Vaccination against respiratory infections"
       ],
-      "image_link": "https://example.com/images/chronic_respiratory_diseases.jpg"
+      "image_link": "https://www.visbymedical.com/wp-content/uploads/2022/05/Chronic_Coughing.jpg",
+      "image_alt": "Image of a woman coughing - image by Visby Medical"
     },
     {
       "name": "Obesity",
@@ -116,7 +120,8 @@
         "Regular physical activity",
         "Behavioral changes and support"
       ],
-      "image_link": "https://example.com/images/obesity.jpg"
+      "image_link": "https://www.brisbaneobesityclinic.com.au/wp-content/uploads/2021/02/fatman-1024x615.jpg",
+      "image_alt": "Image of an obese man - image by Brisbane Obesity Clinic"
     },
     {
       "name": "Chronic Kidney Disease",
@@ -139,7 +144,8 @@
         "Staying hydrated",
         "Regular health check-ups"
       ],
-      "image_link": "https://example.com/images/chronic_kidney_disease.jpg"
+      "image_link": "https://www.kidney.org/sites/default/files/styles/original/public/stagesofckd_hero_mobile_v1.jpg?itok=TLTDuAel",
+      "image_alt": "Image of a health worker holding a replica of a kidney - Image by National Kidney foundation"
     },
     {
       "name": "Alzheimer's Disease",
@@ -157,7 +163,8 @@
         "Healthy diet",
         "Social engagement"
       ],
-      "image_link": "https://example.com/images/alzheimers_disease.jpg"
+      "image_link": "https://caringhealthcaresc.com/wp-content/uploads/2021/09/bigstock-Young-Nurse-Touching-Hand-Of-E-421551152.jpg",
+      "image_alt": "Image of a young lady caring for an old lady"
     },
     {
       "name": "Hypertension",
@@ -180,7 +187,8 @@
         "Regular exercise",
         "Maintaining a healthy weight"
       ],
-      "image_link": "https://example.com/images/hypertension.jpg"
+      "image_link": "https://sa1s3optim.patientpop.com/assets/images/provider/photos/2534772.jpg",
+      "image_alt": "Image of a health worker assessing the blood pressure of a patient- Image by Northwest Houston Heart Center"
     },
     {
       "name": "Osteoporosis",
@@ -203,7 +211,8 @@
         "Regular physical activity",
         "Avoiding smoking and excessive alcohol"
       ],
-      "image_link": "https://example.com/images/osteoporosis.jpg"
+      "image_link": "https://images.squarespace-cdn.com/content/v1/5d9bbb93baf51a574d8292db/7c7148c0-2d12-4a34-b28b-36df110dec8b/Osteoporosis-Blog-Image-2.jpg",
+      "image_alt": "Image illustrating pain as a result of Osteoporosis - image by Nitin Khanna MD"
     },
     {
       "name": "Mental Health Disorders",
@@ -227,7 +236,8 @@
         "Healthy lifestyle choices",
         "Building strong social connections"
       ],
-      "image_link": "https://example.com/images/mental_health_disorders.jpg"
+      "image_link": "https://whws.org.au/wp-content/uploads/2021/12/get-on-top-of-mental-health-early.jpg",
+      "image_alt": "Illustration of the mind - Image by Gosnells Women's Health service"
     },
     {
       "name": "Cirrhosis",
@@ -250,7 +260,8 @@
         "Vaccination against hepatitis",
         "Maintaining a healthy weight"
       ],
-      "image_link": "https://example.com/images/cirrhosis.jpg"
+      "image_link": "https://bighospitals.in/assets/img/blog/blog-01.jpg",
+      "image_alt": "Image illustration the liver inside the human body- Image by Bangalore Institute of Gastroenterology"
     },
     {
       "name": "Multiple Sclerosis",
@@ -273,7 +284,8 @@
         "Avoiding smoking",
         "Vitamin D supplementation"
       ],
-      "image_link": "https://example.com/images/multiple_sclerosis.jpg"
+      "image_link": "https://sa1s3optim.patientpop.com/assets/images/provider/photos/2177627.jpg",
+      "image_alt": "Image illustration of the brain and neural network. Image by NY neurology Associates"
     },
     {
       "name": "Parkinson's Disease",
@@ -296,7 +308,8 @@
         "Healthy diet",
         "Avoiding exposure to environmental toxins"
       ],
-      "image_link": "https://example.com/images/parkinsons_disease.jpg"
+      "image_link": "https://healthsciences.ku.dk/newsfaculty-news/2023/10/Parkinsons.png",
+      "image_alt": "Image Illustration of a shaking hand - Image by Kobenhavns University"
     },
     {
       "name": "Gout",
@@ -319,7 +332,8 @@
         "Limiting alcohol and purine-rich foods",
         "Staying hydrated"
       ],
-      "image_link": "https://example.com/images/gout.jpg"
+      "image_link": "https://www.footankleaz.com/wp-content/uploads/2024/07/Foot-Gout-Treatment-in-Arizona-1000x480.jpg",
+      "image_alt": "Illustration of the gout on the joints of the toes"
     },
     {
       "name": "Asthma",
@@ -342,7 +356,8 @@
         "Regular physical activity",
         "Monitoring symptoms"
       ],
-      "image_link": "https://example.com/images/asthma.jpg"
+      "image_link": "https://media.cnn.com/api/v1/images/stellar/prod/191030123900-asthma-inhaler-stock.jpg?q=x_3,y_39,h_1684,w_2993,c_crop/h_833,w_1480",
+      "image_alt": "Picture of person using an inhaler"
     },
     {
       "name": "Fibromyalgia",
@@ -365,7 +380,8 @@
         "Regular exercise",
         "Healthy sleep habits"
       ],
-      "image_link": "https://example.com/images/fibromyalgia.jpg"
+      "image_link": "https://mccabebradypt.com/wp-content/uploads/2023/02/Physical-therapy-clinic-fibromyalgia-McCabe-and-Brady-Physical-Therapy-Ivyland-New-Britain-Warminster-PA-1.jpg",
+      "image_alt": "Picture of a person in pain"
     },
     {
       "name": "Chronic Fatigue Syndrome",
@@ -388,7 +404,8 @@
         "Healthy lifestyle choices",
         "Avoiding infections"
       ],
-      "image_link": "https://example.com/images/chronic_fatigue_syndrome.jpg"
+      "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLkJ4EpCT2qoZi0EUkrPW0nY2hfjE707ZT-A4FracavhOoF459VK0SCiBiwu9NmnIEgOc&usqp=CAU",
+      "image_alt": "Illustration of extreme fatigue"
     },
     {
       "name": "Skin Cancer",
@@ -407,7 +424,8 @@
         "Avoiding tanning beds",
         "Regular skin checks"
       ],
-      "image_link": "https://example.com/images/skin_cancer.jpg"
+      "image_link": "https://www.melanomascan.com.au/images/articles/01-Warning_Signs_of_Skin_Cancer.jpg",
+      "image_alt": "Image of the detection of skin cancer"
     },
     {
       "name": "Crohn's Disease",
@@ -426,7 +444,8 @@
         "Surgery"
       ],
       "prevention": ["Avoiding smoking", "Healthy diet", "Managing stress"],
-      "image_link": "https://example.com/images/crohns_disease.jpg"
+      "image_link": "https://media.licdn.com/dms/image/C5612AQGiJ-jzFnrrIg/article-cover_image-shrink_720_1280/0/1592518332154?e=2147483647&v=beta&t=knl9lJbVK4J-t-sWxzl4QW89J8xUlH439psmNSalMps",
+      "image_alt": "Illustration of bowel disease"
     },
     {
       "name": "Irritable Bowel Syndrome (IBS)",
@@ -445,7 +464,8 @@
         "Psychological therapy"
       ],
       "prevention": ["Healthy diet", "Managing stress", "Regular exercise"],
-      "image_link": "https://example.com/images/ibs.jpg"
+      "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8v4Jwl7WMioIbimLjhYYBmy6g-dY-BG31a2hGRq2R-YhOBz4JgCYu0yk7eFIud8p6p_A&usqp=CAU",
+      "image_alt": "Image illustrating bowel dieases"
     },
     {
       "name": "Acid Reflux (GERD)",
@@ -468,7 +488,8 @@
         "Avoiding trigger foods",
         "Eating smaller meals"
       ],
-      "image_link": "https://example.com/images/gerd.jpg"
+      "image_link": "https://nuhsplus.edu.sg/images/default-source/default-album/gerd-featured-1200x550.jpg?sfvrsn=362eb7ad_1",
+      "image_alt": "Image illustrating reflux disease"
     }
   ]
 }
