@@ -200,6 +200,24 @@ form h2 {
   margin-bottom: 20px;
 }
 
+/*Listing page*/
+#info li {
+  list-style-type: none;
+  background-color: rgba(69, 218, 61, 0.185);
+  padding: 1.5rem;
+  margin: 1rem;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+#info li p {
+  padding-top: 20px;
+}
+
+#info {
+  padding: 2rem;
+}
+
 /*footer*/
 footer {
   background-color: var(--secondary-color);
