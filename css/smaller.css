@@ -5,10 +5,16 @@
   }
 
   .hero video,
-  .c-hero img,
   .info img {
     width: 100%;
-    padding: 0;
+  }
+
+  .c-hero img {
+    width: 15rem;
+  }
+
+  .text {
+    font-size: 1rem; /* Reduce font size for smaller screens */
   }
 
   .hero {

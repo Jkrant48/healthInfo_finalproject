@@ -5,7 +5,7 @@ export default class HealthDataServices {
         "https://run.mocky.io/v3/ebe9454d-3b19-481e-b180-cd68ae3a6dab",
       nonCommunicable:
         "https://run.mocky.io/v3/63c3b8d9-f874-416d-b106-f44761595b21",
-      lifestyle: "https://run.mocky.io/v3/995039dc-8b90-4c6a-855d-8d7d7738e74a",
+      lifestyle: "https://run.mocky.io/v3/5d5e1919-1c01-4ef9-a8ed-af6567890e46",
     };
   }
 

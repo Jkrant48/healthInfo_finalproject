@@ -69,10 +69,25 @@ nav img {
 }
 
 .c-hero img {
-  width: 300px;
-  padding: 4rem 0 0 3rem;
+  width: 20rem;
+  padding: 3rem 0 0 3rem;
 }
 
+.text {
+  color: var(--primary-color);
+}
+
+.text {
+  font-size: 2rem;
+  padding-right: 1rem;
+}
+
+.c-hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 20px;
+}
 .c-hero {
   background: linear-gradient(
     90deg,
@@ -110,6 +125,10 @@ nav img {
   overflow: hidden;
   text-align: center;
   color: black;
+}
+
+.card:hover {
+  box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .card figcaption {
@@ -160,6 +179,11 @@ nav img {
 
 .bottom a {
   display: block;
+  color: black;
+}
+
+.bottom a:hover {
+  text-decoration: underline;
 }
 
 .bottom-info {
@@ -194,6 +218,12 @@ form button {
   margin-top: 1rem;
   font-family: var(--paragraph-font);
   font-size: 1rem;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: var(--primary-color);
+  color: black;
 }
 
 form h2 {
@@ -216,6 +246,48 @@ form h2 {
 
 #info {
   padding: 2rem;
+}
+
+/*details page*/
+.d-hero img {
+  width: 100%;
+  position: relative;
+}
+
+/*.d-hero h1 {
+  background-color: rgba(57, 224, 48, 0.247);
+  padding: 1rem;
+  position: absolute;
+  bottom: -140px;
+  left: 0;
+  transform: translate(50px, -50%);
+  font-size: 4rem;
+  z-index: 1;  
+}*/
+
+.details-info {
+  padding: 5rem;
+}
+
+.details-heading {
+  font-size: 4rem;
+}
+
+.t-heading,
+.p-heading,
+.r-heading {
+  font-size: 1.5rem;
+  margin-top: 20px;
+}
+
+.details-info ul li {
+  font-family: var(--paragraph-font);
+  font-size: 1.5rem;
+}
+
+.details-info hr {
+  border: 1.5px solid rgba(0, 0, 0, 0.74);
+  margin-bottom: 10px;
 }
 
 /*footer*/
