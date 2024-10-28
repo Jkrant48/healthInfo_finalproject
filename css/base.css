@@ -113,7 +113,7 @@ nav img {
   width: 100%;
 }
 
-.searchbar {
+/*.searchbar {
   display: flex;
   justify-content: center;
   margin-top: -20px;
@@ -127,6 +127,31 @@ nav img {
   font-size: 1.23rem;
   margin-bottom: 10px;
   font-family: var(--paragraph-font);
+}*/
+
+/*form.html*/
+.s-container {
+  background-color: rgba(111, 243, 78, 0.418);
+  display: flex;
+  align-items: center;
+  padding: 1.5rem 1.5rem 0 1.5rem;
+  gap: 10px;
+  justify-content: space-around;
+}
+
+.s-container img {
+  width: 30rem;
+}
+
+.submitmsg {
+  text-align: center;
+}
+.submitmsg h1 {
+  font-size: 4rem;
+}
+
+.submitmsg p {
+  font-size: 1.6rem;
 }
 
 /*Cards and card*/
@@ -256,6 +281,11 @@ form h2 {
   border-radius: 10px;
 }
 
+#info li:hover {
+  background-color: rgba(2, 42, 23, 0.918);
+  color: var(--primary-color);
+}
+
 #info li p {
   padding-top: 20px;
 }
@@ -267,19 +297,14 @@ form h2 {
 /*details page*/
 .d-hero img {
   width: 100%;
-  position: relative;
 }
 
-/*.d-hero h1 {
+.d-hero h1 {
   background-color: rgba(57, 224, 48, 0.247);
-  padding: 1rem;
-  position: absolute;
-  bottom: -140px;
-  left: 0;
-  transform: translate(50px, -50%);
+  text-align: center;
+  padding: 2rem;
   font-size: 4rem;
-  z-index: 1;  
-}*/
+}
 
 .details-info {
   padding: 5rem;
