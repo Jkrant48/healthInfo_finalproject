@@ -17,7 +17,7 @@
   }
 
   .c-hero img {
-    width: 15rem;
+    width: 12rem;
   }
 
   .text {
@@ -95,5 +95,9 @@
 
   .d-hero h1 {
     font-size: 2rem;
+  }
+
+  .details-heading {
+    font-size: 3.1rem;
   }
 }
